@@ -1,0 +1,93 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Inter", sans-serif;
+}
+
+body {
+  @apply font-sans;
+  color: var(--text-color, #111827);
+  background-color: #ece6db;
+}
+
+input, textarea, select {
+  @apply font-sans;
+  color: #111827; /* Force dark text for form fields */
+}
+
+/* Hide spin-buttons for input type=number */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type="number"] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+.glass {
+  @apply backdrop-blur-lg border border-white/20;
+  background-color: var(--glass-color, rgba(255, 255, 255, 0.4));
+  -webkit-backdrop-filter: blur(16px);
+  backdrop-filter: blur(16px);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-serif;
+  color: var(--text-color, #111827);
+}
+
+.force-dark-headings h1,
+.force-dark-headings h2,
+.force-dark-headings h3,
+.force-dark-headings h4,
+.force-dark-headings h5,
+.force-dark-headings h6 {
+  color: #000000 !important;
+}
+
+/* Print Specific Rules */
+#printable-receipt-container {
+  display: none;
+}
+
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  body > *:not(#printable-receipt-container) {
+    display: none !important;
+  }
+
+  #printable-receipt-container {
+    display: block !important;
+    position: absolute !important;
+    left: 0 !important;
+    top: 0 !important;
+    width: 100% !important;
+    max-width: 80mm !important;
+    margin: 0 auto !important;
+    padding: 2mm !important;
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-family: 'Courier New', Courier, monospace, sans-serif !important;
+    font-size: 12px !important;
+    box-shadow: none !important;
+    border: none !important;
+    z-index: 9999999 !important;
+  }
+
+  #printable-receipt-container * {
+    visibility: visible !important;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+}

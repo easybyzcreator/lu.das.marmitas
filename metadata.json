@@ -1,0 +1,8 @@
+{
+  "name": "Lu das marmitas",
+  "description": "Sistema de Cardápio Imersivo Personalizável para Restaurantes e Catálogos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

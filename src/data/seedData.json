@@ -1,0 +1,761 @@
+{
+  "products": [
+    {
+      "id": "8i9aUlBcwyaNs3FifFLw",
+      "isMeal": true,
+      "categoryId": "6n2VViMMFbJJ4TJWOEal",
+      "oldPrice": 0,
+      "ingredients": "",
+      "isCustomSandwich": false,
+      "hasSizes": true,
+      "customFillings": "",
+      "image": "https://i.ibb.co/27cj5Lfn/Mini-quibe-mjadra-babaganoush-350g.jpg",
+      "description": "INGREDIENTES: Mjadra (água, cebola, lentilha, arroz integral, azeite de oliva, zaatar, sal e tempero sírio), quibe (quinoa, proteína texturizada de soja, água, farinha de aveia, molho de soja, azeite de oliva, zaatar e tempero sírio) e babaganoush (berinjela assada, amendoim, vinagre, azeite de oliva, alho e sal).\n\nALÉRGICOS: Contém amendoim e derivados de soja. Não contém glúten.",
+      "price": 0,
+      "cakeGalleryId": "",
+      "allowedSides": [],
+      "priceType": "fixed",
+      "isCustomCake": false,
+      "isActive": true,
+      "nutritionalInfo": {
+        "transFatVd": "0",
+        "calories": "121",
+        "proteins": "6,7",
+        "fiberVd": "13",
+        "totalFat": "4,6",
+        "sodiumVd": "19",
+        "carbs": "13",
+        "totalSugarsVd": "",
+        "servingsPerContainer": "4 porções",
+        "proteinsVd": "13",
+        "addedSugars": "0",
+        "totalSugars": "0,3",
+        "sodium": "377",
+        "caloriesVd": "6",
+        "transFat": "0",
+        "servingSize": "porção de 100g (1 prato raso)",
+        "saturatedFat": "0,8",
+        "totalFatVd": "7",
+        "fiber": "3,3",
+        "addedSugarsVd": "0",
+        "carbsVd": "4",
+        "saturatedFatVd": "4"
+      },
+      "title": "Mini quibe, mjadra, babaganoush - 350g",
+      "sizes": [
+        {
+          "price": 28,
+          "name": "Marmita individual",
+          "id": "4v6reb8gg"
+        },
+        {
+          "price": 120,
+          "name": "Combo 5 marmitas",
+          "id": "aeyq3dkyy"
+        },
+        {
+          "price": 210,
+          "id": "8a82wuns5",
+          "name": "Combo 10 marmitas"
+        },
+        {
+          "price": 405,
+          "id": "oh7k93f0k",
+          "name": "Combo 20 marmitas"
+        },
+        {
+          "price": 600,
+          "id": "9nczwi7ov",
+          "name": "Combo 30 marmitas"
+        }
+      ]
+    },
+    {
+      "id": "AO0oWaKXyyNiHZ2nqXWY",
+      "customFillings": "",
+      "isCustomSandwich": false,
+      "description": "INGREDIENTES: Strogonoff (aveia, água, tomate pelado, palmito em conserva, cebola, champignon em conserva, cogumelo paris in natura, molho de mostarda, molho de soja, sal e alho), arroz integral (água, arroz integral e sal) e ervilhas salteadas (ervilha fresca e azeite de oliva).\n\nALÉRGICOS: Contém derivados de soja. Não contém glúten.",
+      "isMeal": true,
+      "sizes": [
+        {
+          "name": "Marmita individual",
+          "id": "ktk61lf2e",
+          "price": 28
+        },
+        {
+          "id": "lag105nde",
+          "name": "Combo 5 marmitas",
+          "price": 120
+        },
+        {
+          "id": "vcybfcmi4",
+          "price": 210,
+          "name": "Combo 10 marmitas"
+        },
+        {
+          "price": 405,
+          "name": "Combo 20 marmitas",
+          "id": "xti437k8c"
+        },
+        {
+          "id": "1pnck02b6",
+          "name": "Combo 30 marmitas",
+          "price": 600
+        }
+      ],
+      "isActive": true,
+      "ingredients": "",
+      "title": "Strogonoff e acompanhamentos - 350g",
+      "isCustomCake": false,
+      "nutritionalInfo": {
+        "totalFatVd": "5",
+        "transFat": "0",
+        "saturatedFat": "0,5",
+        "sodium": "289",
+        "carbs": "18",
+        "caloriesVd": "6",
+        "servingsPerContainer": "",
+        "addedSugarsVd": "0",
+        "fiberVd": "13",
+        "addedSugars": "0",
+        "totalSugars": "0,2",
+        "totalFat": "3,5",
+        "sodiumVd": "14",
+        "proteins": "3,3",
+        "calories": "115",
+        "proteinsVd": "7",
+        "carbsVd": "6",
+        "servingSize": "porção 100g (1 prato raso)",
+        "totalSugarsVd": "",
+        "fiber": "3,1",
+        "transFatVd": "0",
+        "saturatedFatVd": "3"
+      },
+      "allowedSides": [],
+      "oldPrice": 0,
+      "priceType": "fixed",
+      "image": "https://i.ibb.co/tMPcg3Dn/Strogonoff-e-acompanhamentos-350g.jpg",
+      "cakeGalleryId": "",
+      "categoryId": "6n2VViMMFbJJ4TJWOEal",
+      "hasSizes": true,
+      "price": 0
+    },
+    {
+      "id": "AsELVlBFEONW4GYItT4B",
+      "priceType": "fixed",
+      "categoryId": "6n2VViMMFbJJ4TJWOEal",
+      "oldPrice": 0,
+      "price": 0,
+      "image": "https://i.ibb.co/39dWWKTV/Feijoada-vegana-350g.jpg",
+      "isCustomCake": false,
+      "nutritionalInfo": {
+        "proteins": "6",
+        "calories": "166",
+        "fiber": "5,4",
+        "totalFatVd": "6",
+        "sodiumVd": "17",
+        "totalFat": "3,7",
+        "carbsVd": "9",
+        "addedSugarsVd": "0",
+        "caloriesVd": "8",
+        "sodium": "346",
+        "servingSize": "porção de 100g (1 prato raso)",
+        "fiberVd": "22",
+        "proteinsVd": "12",
+        "carbs": "27",
+        "transFat": "0",
+        "addedSugars": "0,2",
+        "saturatedFatVd": "5",
+        "totalSugars": "0,1",
+        "transFatVd": "0",
+        "servingsPerContainer": "4 porções",
+        "saturatedFat": "1"
+      },
+      "allowedSides": [],
+      "hasSizes": true,
+      "customFillings": "",
+      "isCustomSandwich": false,
+      "ingredients": "",
+      "title": "Feijoada vegana - 350g",
+      "isMeal": true,
+      "cakeGalleryId": "",
+      "sizes": [
+        {
+          "id": "rshfomrvv",
+          "name": "Marmita individual",
+          "price": 28
+        },
+        {
+          "id": "5wdea1dmk",
+          "name": "Combo 5 marmitas",
+          "price": 120
+        },
+        {
+          "name": "Combo 10 marmitas",
+          "price": 210,
+          "id": "ni2p79v1v"
+        },
+        {
+          "id": "73s2eupnd",
+          "price": 405,
+          "name": "Combo 20 marmitas"
+        },
+        {
+          "name": "Combo 30 marmitas",
+          "price": 600,
+          "id": "nyrhgkueu"
+        }
+      ],
+      "isActive": true,
+      "description": "INGREDIENTES: Feijoada (feijão, cebola, tofu, cenoura, beterraba, água, molho de soja, azeite de oliva, sal, alho, salsa e cebolinha), arroz integral (água, arroz integral e sal), couve salteada (couve, azeite de oliva, gengibre, cúrcuma, alho e sal), farofa de banana (cebola, flocão de milho, banana, azeite de oliva, páprica, alho e salsa) e bacon de coco (coco in natura, molho de soja, melado, azeite de oliva, páprica e sal).\n\nALÉRGICOS: Contém derivados de soja. Não contém glúten."
+    },
+    {
+      "id": "H4t1yEoMeTN4j25VK6SE",
+      "priceType": "fixed",
+      "categoryId": "6n2VViMMFbJJ4TJWOEal",
+      "image": "https://i.ibb.co/whgTvkQy/Gr-o-de-bico-ao-molho-satay-350-g.jpg",
+      "price": 0,
+      "customFillings": "",
+      "nutritionalInfo": {
+        "totalSugarsVd": "",
+        "fiber": "4,9",
+        "saturatedFat": "2,3",
+        "proteinsVd": "21",
+        "calories": "251",
+        "proteins": "10",
+        "totalSugars": "3,2",
+        "addedSugars": "0,8",
+        "carbsVd": "9",
+        "totalFat": "12",
+        "transFatVd": "0",
+        "sodiumVd": "29",
+        "carbs": "28",
+        "servingSize": "1 porção 100g (1 prato raso)",
+        "totalFatVd": "18",
+        "addedSugarsVd": "2",
+        "fiberVd": "20",
+        "saturatedFatVd": "12",
+        "sodium": "582",
+        "servingsPerContainer": "4 porções",
+        "caloriesVd": "13",
+        "transFat": "0"
+      },
+      "isActive": true,
+      "oldPrice": 0,
+      "allowedSides": [],
+      "ingredients": "",
+      "sizes": [
+        {
+          "id": "wxu0jfng8",
+          "name": "Marmita individual",
+          "price": 28
+        },
+        {
+          "id": "sdu4p9hw7",
+          "name": "Combo 5 marmitas",
+          "price": 120
+        },
+        {
+          "name": "Combo 10 marmitas",
+          "id": "p3txofv7e",
+          "price": 210
+        },
+        {
+          "id": "rnofvuxoc",
+          "name": "Combo 20 marmitas",
+          "price": 405
+        },
+        {
+          "id": "fcpkdye5u",
+          "price": 600,
+          "name": "Combo 30 marmitas"
+        }
+      ],
+      "title": "Grão de bico ao molho satay - 350 g",
+      "isCustomCake": false,
+      "cakeGalleryId": "",
+      "hasSizes": true,
+      "isCustomSandwich": false,
+      "description": "INGREDIENTES: Grão-de-bico ao molho satay (grão-de-bico, pasta de amendoim, cebola, molho de soja, água, vinagre, azeite de oliva, gengibre, alho, sal, pimenta-caiena e louro), arroz cateto misto à grega (arroz cateto misto, milho verde, cenoura, uva-passa, ervas frescas e sal), brócolis e tomate-cereja salteados (brócolis, tomate, azeite de oliva, sal e pimenta-do-reino) e gergelim preto.\n\nALÉRGICOS: Contém derivados de amendoim e de soja. Não contém glúten.",
+      "isMeal": true
+    },
+    {
+      "id": "ODV1Qt3RKR4KeYikOjKD",
+      "priceType": "fixed",
+      "categoryId": "1fyIn6BSGRicebiFRFRJ",
+      "cakeGalleryId": "",
+      "isActive": true,
+      "sizes": [],
+      "title": "Kit Detox - protocolo para 5 dias",
+      "isCustomSandwich": false,
+      "customFillings": "",
+      "hasSizes": false,
+      "ingredients": "",
+      "image": "https://i.ibb.co/QFGPtWDy/Kit-Detox-protocolo-para-5-dias.jpg",
+      "allowedSides": [],
+      "isMeal": true,
+      "price": 0,
+      "isCustomCake": false,
+      "oldPrice": 497,
+      "description": "5. Suco verde detox\n5. Suco vermelho detox\n5. Suco amarelo detox\n1. Lasanha low carb e proteica\n1. Escondidinho de abóbora recheado com bolonhesa de proteína de soja\n1. Charutinho de couve com ricotinha de tofu\n1. Beringela Caprese e arroz negro\n1. Curry de grão de bico com vegetais e arroz de couveflor\n1. Creme maromba\n1. Creme antioxidante\n1. Creme rejuvenescedor\n1. Creme da imunidade\n1. Sopa da felicidade",
+      "nutritionalInfo": {
+        "transFat": "",
+        "fiber": "",
+        "saturatedFatVd": "",
+        "servingSize": "",
+        "totalSugarsVd": "",
+        "carbsVd": "",
+        "transFatVd": "",
+        "proteinsVd": "",
+        "totalFat": "",
+        "caloriesVd": "",
+        "sodiumVd": "",
+        "proteins": "",
+        "calories": "",
+        "sodium": "",
+        "addedSugarsVd": "",
+        "carbs": "",
+        "addedSugars": "",
+        "totalFatVd": "",
+        "totalSugars": "",
+        "saturatedFat": "",
+        "servingsPerContainer": "",
+        "fiberVd": ""
+      }
+    },
+    {
+      "id": "bNDxyAhB9q4UUCOcK7SO",
+      "price": 0,
+      "isCustomCake": false,
+      "allowedSides": [],
+      "description": "INGREDIENTES: Berinjela (berinjela, páprica e sal), pesto rosso (tomate seco, amendoim, manjericão e alho), pesto de ervilhas (ervilha fresca, amendoim, azeite de oliva, manjericão e alho) e ricotinha de tofu (tofu, azeite de oliva, vinagre, sal e orégano).\n\nALÉRGICOS: Contém amendoim e derivados de soja. Não contém glúten.",
+      "hasSizes": true,
+      "image": "https://i.ibb.co/d02rJcrX/Lasanha-lowcarb-de-beringela-350g.png",
+      "cakeGalleryId": "",
+      "categoryId": "6n2VViMMFbJJ4TJWOEal",
+      "oldPrice": 0,
+      "ingredients": "",
+      "priceType": "fixed",
+      "title": "Lasanha lowcarb de beringela - 350g",
+      "customFillings": "",
+      "sizes": [
+        {
+          "id": "q599s6ovr",
+          "price": 28,
+          "name": " Marmita individual"
+        },
+        {
+          "id": "tmir4w4oy",
+          "price": 120,
+          "name": "Combo 5 marmitas"
+        },
+        {
+          "name": "Combo 10 marmitas",
+          "price": 210,
+          "id": "0njq1vso2"
+        },
+        {
+          "name": "Combo 20 marmitas",
+          "price": 405,
+          "id": "7jb5fdxc7"
+        },
+        {
+          "id": "3l8a30ft5",
+          "name": "Combo 30 marmitas",
+          "price": 600
+        }
+      ],
+      "isCustomSandwich": false,
+      "nutritionalInfo": {
+        "saturatedFatVd": "10",
+        "transFatVd": "0",
+        "fiberVd": "26",
+        "saturatedFat": "2",
+        "fiber": "6,5",
+        "totalSugarsVd": "",
+        "transFat": "0",
+        "servingsPerContainer": "4 porções",
+        "servingSize": "1 porção 100g (1 prato raso)",
+        "proteinsVd": "14",
+        "caloriesVd": "9",
+        "sodium": "528",
+        "totalSugars": "3,4",
+        "addedSugars": "0",
+        "totalFatVd": "18",
+        "proteins": "7,2",
+        "calories": "286",
+        "totalFat": "12",
+        "carbs": "14",
+        "addedSugarsVd": "0",
+        "sodiumVd": "26",
+        "carbsVd": "5"
+      },
+      "isActive": true,
+      "isMeal": true
+    },
+    {
+      "id": "ksa7ToJDLa5CUAcKHOZQ",
+      "sizes": [
+        {
+          "price": 28,
+          "id": "0mck286qf",
+          "name": "Marmita individual"
+        },
+        {
+          "price": 120,
+          "name": "Combo 5 marmitas",
+          "id": "g31am1vjz"
+        },
+        {
+          "price": 210,
+          "id": "c5jb42bb5",
+          "name": "Combo 10 marmitas"
+        },
+        {
+          "name": "Combo 20 marmitas",
+          "price": 405,
+          "id": "nyzr5pmmf"
+        },
+        {
+          "name": "Combo 30 marmitas",
+          "price": 600,
+          "id": "7cdzta3dm"
+        }
+      ],
+      "priceType": "fixed",
+      "title": "Burguer de grão de bico - 350g",
+      "description": "INGREDIENTES: Quinoa branca com milho e orégano (quinoa, milho verde, água, sal e orégano), purê de beterraba (batata-doce, beterraba, água e sal), burger de grão-de-bico (grão-de-bico, água, cebola, cenoura, azeite de oliva, farinha de aveia, salsa, cebolinha, alho, sal, páprica, pimenta-do-reino e cúrcuma), brócolis salteado (brócolis, azeite de oliva e sal) e tomate confit (tomate, azeite de oliva, ervas frescas, alho, sal e pimenta-do-reino).\n\nNÃO CONTÉM GLÚTEN.",
+      "hasSizes": true,
+      "isMeal": true,
+      "cakeGalleryId": "",
+      "ingredients": "",
+      "oldPrice": 0,
+      "categoryId": "6n2VViMMFbJJ4TJWOEal",
+      "isCustomCake": false,
+      "allowedSides": [],
+      "price": 0,
+      "isCustomSandwich": false,
+      "isActive": true,
+      "image": "https://i.ibb.co/q3b3wyXM/Burguer-de-gr-o-de-bico-350g.jpg",
+      "customFillings": "",
+      "nutritionalInfo": {
+        "saturatedFatVd": "3",
+        "addedSugarsVd": "0",
+        "transFatVd": "0",
+        "carbs": "17",
+        "servingsPerContainer": "4 porções",
+        "fiberVd": "10",
+        "saturatedFat": "0,6",
+        "proteinsVd": "6",
+        "servingSize": "porção de 100g (1 prato raso)",
+        "transFat": "0",
+        "totalSugars": "0,7",
+        "fiber": "2,5",
+        "addedSugars": "0",
+        "totalSugarsVd": "",
+        "sodium": "171",
+        "caloriesVd": "6",
+        "calories": "111",
+        "proteins": "2,9",
+        "totalFat": "3,7",
+        "carbsVd": "6",
+        "totalFatVd": "6",
+        "sodiumVd": "9"
+      }
+    },
+    {
+      "id": "njcJaWi00eLEFX67edzr",
+      "isMeal": true,
+      "isActive": true,
+      "allowedSides": [],
+      "isCustomCake": false,
+      "image": "https://i.ibb.co/ycWKTw1V/Marmita-mexicana-350g.jpg",
+      "categoryId": "6n2VViMMFbJJ4TJWOEal",
+      "price": 0,
+      "hasSizes": true,
+      "ingredients": "",
+      "cakeGalleryId": "",
+      "nutritionalInfo": {
+        "transFatVd": "0",
+        "proteins": "6,1",
+        "calories": "105",
+        "addedSugars": "0",
+        "saturatedFatVd": "1",
+        "totalSugars": "0,3",
+        "addedSugarsVd": "0",
+        "sodiumVd": "9",
+        "totalFat": "1,2",
+        "carbs": "18",
+        "servingsPerContainer": "4 porções",
+        "carbsVd": "6",
+        "saturatedFat": "0",
+        "proteinsVd": "12",
+        "sodium": "189",
+        "fiber": "4,3",
+        "fiberVd": "17",
+        "totalSugarsVd": "",
+        "caloriesVd": "5",
+        "transFat": "0",
+        "servingSize": "1 porção 100g (1 prato raso)",
+        "totalFatVd": "2"
+      },
+      "oldPrice": 0,
+      "priceType": "fixed",
+      "description": "INGREDIENTES: Chilli (tomate pelado, cebola, feijão-preto, pimentão vermelho, proteína texturizada de soja, pimentão verde, pimentão amarelo, molho de soja, pimenta chilli e pimenta-caiena), creme de milho (batata-baroa, milho verde em conserva e água), fajitas (cogumelo shitake in natura, cebola, pimentão verde, pimentão amarelo, molho de soja, pimentão vermelho e páprica) e sour cream (tofu, vinagre, azeite de oliva, sumo de limão e sal de mesa).\n\nALÉRGICOS: Contém derivados de soja. Não contém glúten.",
+      "isCustomSandwich": false,
+      "title": "Marmita mexicana - 350g",
+      "sizes": [
+        {
+          "price": 28,
+          "id": "adgqjoshe",
+          "name": "Marmita individual"
+        },
+        {
+          "id": "tafwxldpn",
+          "price": 120,
+          "name": "Combo 5 marmitas"
+        },
+        {
+          "name": "Combo 10 marmitas",
+          "price": 210,
+          "id": "t4capc3dk"
+        },
+        {
+          "price": 405,
+          "id": "dattm1hri",
+          "name": "Combo 20 marmitas"
+        },
+        {
+          "id": "8z0ne6ocr",
+          "name": "Combo 30 marmitas",
+          "price": 600
+        }
+      ],
+      "customFillings": ""
+    },
+    {
+      "id": "xEGQWwkkus90j4IB3mAQ",
+      "image": "https://i.ibb.co/S7NjFW7q/Moqueca-e-acompanhamentos-350g.jpg",
+      "hasSizes": true,
+      "description": "INGREDIENTES: Moqueca (palmito em conserva, abóbora, leite de coco, leite de aveia, pimentão vermelho, pimentão verde, pimentão amarelo, cebola, azeite de dendê, azeite de oliva, vinagre, pimenta-dedo-de-moça, sal e pimenta-caiena), quinoa vermelha com coco (quinoa, coco, água e sal) e homus de coentro (água, grão-de-bico, coentro, vinagre, azeite de oliva, alho, sal e pimenta-do-reino).\n\nNÃO CONTÉM GLÚTEN.",
+      "price": 0,
+      "nutritionalInfo": {
+        "totalFat": "7,9",
+        "carbs": "9,4",
+        "saturatedFatVd": "20",
+        "saturatedFat": "4",
+        "sodiumVd": "13",
+        "calories": "119",
+        "proteins": "2,7",
+        "addedSugarsVd": "0",
+        "totalFatVd": "12",
+        "servingSize": "1 porção 100g (1 prato raso)",
+        "fiberVd": "9",
+        "caloriesVd": "6",
+        "transFat": "0",
+        "proteinsVd": "5",
+        "totalSugarsVd": "",
+        "carbsVd": "3",
+        "servingsPerContainer": "4 porções",
+        "totalSugars": "0,6",
+        "sodium": "264",
+        "addedSugars": "Não contém",
+        "fiber": "2,3",
+        "transFatVd": "0"
+      },
+      "oldPrice": 0,
+      "ingredients": "",
+      "priceType": "fixed",
+      "categoryId": "6n2VViMMFbJJ4TJWOEal",
+      "customFillings": "",
+      "cakeGalleryId": "",
+      "isActive": true,
+      "sizes": [
+        {
+          "name": "Marmita individual",
+          "price": 28,
+          "id": "gf6rd69cq"
+        },
+        {
+          "id": "a3apnfq6n",
+          "price": 120,
+          "name": "Combo 5 marmitas"
+        },
+        {
+          "id": "a702bh6c7",
+          "name": " Combo 10 marmitas",
+          "price": 210
+        },
+        {
+          "id": "yjlaxkdaz",
+          "name": "Combo 20 marmitas",
+          "price": 405
+        },
+        {
+          "name": "Combo 30 marmitas",
+          "price": 600,
+          "id": "h7jqtthza"
+        }
+      ],
+      "title": "Moqueca e acompanhamentos - 350g",
+      "isCustomSandwich": false,
+      "isMeal": true,
+      "isCustomCake": false,
+      "allowedSides": []
+    },
+    {
+      "id": "ztijFNe3iBPWDBa3CgYi",
+      "hasSizes": true,
+      "cakeGalleryId": "",
+      "customFillings": "",
+      "oldPrice": 0,
+      "sizes": [
+        {
+          "id": "kfs99awee",
+          "name": "Marmita individual",
+          "price": 28
+        },
+        {
+          "id": "p99py5lh8",
+          "price": 120,
+          "name": "Combo 5 marmitas"
+        },
+        {
+          "name": "Combo 10 marmitas",
+          "price": 210,
+          "id": "tv2w9cbm6"
+        },
+        {
+          "name": "Combo 20 marmitas",
+          "price": 405,
+          "id": "uc5kh9hmd"
+        },
+        {
+          "price": 600,
+          "name": "Combo 30 marmitas",
+          "id": "wp4ow52ib"
+        }
+      ],
+      "title": "Escondidinho de abóbora - 350g",
+      "isActive": true,
+      "description": "INGREDIENTES: Purê de abóbora (abóbora, cebola, aipo, brócolis, cogumelo shimeji, sal, gengibre, alho, cúrcuma e noz-moscada), recheio escondidinho (cogumelo shimeji, alho-poró, azeite de oliva e molho de soja) e tofupiry (tofu, azeite de oliva, suco de limão, polvilho azedo e sal).\n\nNÃO CONTÉM GLÚTEN.",
+      "isMeal": true,
+      "categoryId": "6n2VViMMFbJJ4TJWOEal",
+      "priceType": "fixed",
+      "allowedSides": [],
+      "isCustomCake": false,
+      "price": 0,
+      "nutritionalInfo": {
+        "caloriesVd": "7",
+        "carbsVd": "6",
+        "servingSize": "1 porção 100g (1 prato raso)",
+        "servingsPerContainer": "4 porções",
+        "totalSugarsVd": "",
+        "totalFatVd": "8",
+        "transFat": "0",
+        "fiber": "5,1",
+        "saturatedFatVd": "4",
+        "sodium": "377",
+        "transFatVd": "0",
+        "saturatedFat": "0,9",
+        "totalFat": "5,4",
+        "sodiumVd": "19",
+        "carbs": "19",
+        "addedSugars": "0",
+        "fiberVd": "20",
+        "totalSugars": "0,1",
+        "calories": "143",
+        "proteins": "4,8",
+        "addedSugarsVd": "0",
+        "proteinsVd": "10"
+      },
+      "isCustomSandwich": false,
+      "ingredients": "",
+      "image": "https://i.ibb.co/39QF7wsX/Escondidinho-de-ab-bora-350g.jpg"
+    },
+    {
+      "id": "zuq392j1ivtlOVxHZOyu",
+      "allowedSides": [],
+      "isCustomCake": false,
+      "cakeGalleryId": "",
+      "price": 0,
+      "isActive": true,
+      "image": "https://i.ibb.co/GvCDhq2c/Beringela-caprese-e-arroz-negro-350g.jpg",
+      "categoryId": "6n2VViMMFbJJ4TJWOEal",
+      "customFillings": "",
+      "isCustomSandwich": false,
+      "isMeal": true,
+      "description": "INGREDIENTES: Tofu ao pesto (tofu, azeite de oliva, manjericão, amendoim, alho e sal), arroz negro com alho-poró e castanhas (arroz negro, alho-poró, amendoim, amêndoas, castanha-de-caju, água, nozes e sal), berinjela assada (berinjela, azeite de oliva, pimenta e sal), molho ao sugo (tomate pelado, água, cebola, azeite de oliva, alho, sal, gengibre, cúrcuma, páprica e pimenta-do-reino) e tomate confit (tomate, azeite de oliva, alecrim, tomilho, alho, sal e pimenta-do-reino).\n\nALÉRGICOS: Contém amendoim, amêndoas, castanha-de-caju, nozes e derivados de soja. Não contém glúten.",
+      "oldPrice": 0,
+      "nutritionalInfo": {
+        "servingSize": "porção de 100g (1 prato raso)",
+        "sodium": "204",
+        "addedSugarsVd": "0",
+        "carbsVd": "5",
+        "transFatVd": "0",
+        "carbs": "16",
+        "transFat": "0",
+        "proteinsVd": "12",
+        "saturatedFatVd": "14",
+        "saturatedFat": "2,7",
+        "caloriesVd": "12",
+        "totalSugarsVd": "",
+        "totalFat": "18",
+        "totalSugars": "0,2",
+        "sodiumVd": "10",
+        "addedSugars": "0",
+        "totalFatVd": "28",
+        "fiberVd": "15",
+        "proteins": "6",
+        "fiber": "3,7",
+        "calories": "247",
+        "servingsPerContainer": "4 porções"
+      },
+      "title": "Beringela caprese e arroz negro - 350g",
+      "ingredients": "",
+      "sizes": [
+        {
+          "price": 28,
+          "id": "8sy0v6c3k",
+          "name": "Marmita individual"
+        },
+        {
+          "id": "tr639rh3s",
+          "price": 120,
+          "name": "Combo 5 marmitas"
+        },
+        {
+          "price": 210,
+          "id": "gu1rnxc74",
+          "name": "Combo 10 marmitas"
+        },
+        {
+          "id": "y3eb85jtm",
+          "price": 405,
+          "name": "Combo 20 marmitas"
+        },
+        {
+          "price": 600,
+          "id": "ep9ymczsw",
+          "name": "Combo 30 marmitas"
+        }
+      ],
+      "hasSizes": true,
+      "priceType": "fixed"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1fyIn6BSGRicebiFRFRJ",
+      "catalog": "catalog1",
+      "order": 2,
+      "title": "Kit Detox"
+    },
+    {
+      "id": "6n2VViMMFbJJ4TJWOEal",
+      "title": "Marmitas - Top 10 ",
+      "order": 1,
+      "catalog": "catalog1"
+    }
+  ]
+}

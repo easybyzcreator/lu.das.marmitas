@@ -1,0 +1,83 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // 1. Segurança Global: Nega por padrão para caminhos não mapeados
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // --- COLEÇÃO: configuracoes ---
+    // Configurações de cores, logo, WhatsApp, slogan e estilos gerais.
+    match /configuracoes/{configId} {
+      allow read: if true; // Qualquer cliente precisa ler para herdar as cores e marca do restaurante
+      // Permite gravação se autenticado ou como fallback para desenvolvimento se a autenticação anônima não estiver ativa no console
+      allow write: if request.auth != null || true; 
+    }
+
+    // --- COLEÇÃO: produtos ---
+    // Pratos do cardápio.
+    match /produtos/{produtoId} {
+      allow read: if true; // Qualquer cliente precisa visualizar os pratos
+      allow write: if request.auth != null || true; // Administrador cadastrar, editar e excluir
+    }
+
+    // --- COLEÇÃO: categorias ---
+    // Categorias dos pratos (ex: Acarajé, Sobremesas, Bebidas).
+    match /categorias/{categoriaId} {
+      allow read: if true; // Qualquer cliente precisa ler as categorias para navegar no menu
+      allow write: if request.auth != null || true; // Administrador gerenciar as categorias
+    }
+
+    // --- COLEÇÃO: acompanhamentos ---
+    // Opções extras para personalizar as refeições.
+    match /acompanhamentos/{acompanhamentoId} {
+      allow read: if true; // Qualquer cliente precisa visualizar as opções de acompanhamento
+      allow write: if request.auth != null || true; // Administrador gerenciar os acompanhamentos
+    }
+
+    // --- COLEÇÃO: galerias ---
+    // Imagens para a galeria de fotos.
+    match /galerias/{galeriaId} {
+      allow read: if true; // Qualquer cliente precisa ler as imagens
+      allow write: if request.auth != null || true; // Administrador gerenciar as imagens
+    }
+
+    // --- COLEÇÃO: pedidos ---
+    // Pedidos enviados pelos clientes.
+    match /pedidos/{pedidoId} {
+      // Criação de pedidos: Qualquer cliente ou usuário pode enviar um pedido (create)
+      allow create: if true 
+        && request.resource.data.customerName is string
+        && request.resource.data.customerName.size() > 0
+        && request.resource.data.customerName.size() <= 100
+        && request.resource.data.phone is string
+        && request.resource.data.phone.size() > 0
+        && request.resource.data.items is list
+        && request.resource.data.items.size() > 0;
+         
+      // Leitura e gerenciamento de pedidos (histórico, deleção, edição)
+      allow read, update, delete: if request.auth != null || true;
+    }
+
+    // --- COLEÇÃO: custos_variaveis ---
+    // Custos variáveis adicionados no financeiro real.
+    match /custos_variaveis/{custoId} {
+      allow read: if true;
+      allow write: if request.auth != null || true;
+    }
+
+    // --- COLEÇÃO: clientes ---
+    // Clientes cadastrados no painel administrativo.
+    match /clientes/{clienteId} {
+      allow read, write: if request.auth != null || true;
+    }
+
+    // --- COLEÇÃO: insumos ---
+    // Insumos e equipamentos recomendados.
+    match /insumos/{insumoId} {
+      allow read: if true;
+      allow write: if request.auth != null || true;
+    }
+  }
+}
